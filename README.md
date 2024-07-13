@@ -1,4 +1,4 @@
-# Teste execulta no GitHub com sucesso!
+# Teste realizado no GitHub com sucesso!
 
 ```bash
 echo -e "Hello World"
